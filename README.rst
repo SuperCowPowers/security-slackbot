@@ -23,29 +23,29 @@ Security SlackBot is the most awesome slackbot in the entire universe.
     :target: https://readthedocs.org/projects/security_slackbot
     :alt: Documentation Status
 
-.. |travis| image:: https://travis-ci.org/brifordwylie/security_slackbot.svg?branch=master
+.. |travis| image:: https://travis-ci.org/SuperCowPowers/security_slackbot.svg?branch=master
     :alt: Travis-CI Build Status
-    :target: https://travis-ci.org/brifordwylie/security_slackbot
+    :target: https://travis-ci.org/SuperCowPowers/security_slackbot
 
-.. |requires| image:: https://requires.io/github/brifordwylie/security_slackbot/requirements.svg?branch=master
+.. |requires| image:: https://requires.io/github/SuperCowPowers/security_slackbot/requirements.svg?branch=master
     :alt: Requirements Status
-    :target: https://requires.io/github/brifordwylie/security_slackbot/requirements/?branch=master
+    :target: https://requires.io/github/SuperCowPowers/security_slackbot/requirements/?branch=master
 
-.. |codecov| image:: https://codecov.io/github/brifordwylie/security_slackbot/coverage.svg?branch=master
+.. |codecov| image:: https://codecov.io/github/SuperCowPowers/security_slackbot/coverage.svg?branch=master
     :alt: Coverage Status
-    :target: https://codecov.io/github/brifordwylie/security_slackbot
+    :target: https://codecov.io/github/SuperCowPowers/security_slackbot
 
-.. |codeclimate| image:: https://codeclimate.com/github/brifordwylie/security_slackbot/badges/gpa.svg
-   :target: https://codeclimate.com/github/brifordwylie/security_slackbot
+.. |codeclimate| image:: https://codeclimate.com/github/SuperCowPowers/security_slackbot/badges/gpa.svg
+   :target: https://codeclimate.com/github/SuperCowPowers/security_slackbot
    :alt: CodeClimate Quality Status
 
 .. |version| image:: https://img.shields.io/pypi/v/security-slackbot.svg
     :alt: PyPI Package latest release
     :target: https://pypi.python.org/pypi/security-slackbot
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/brifordwylie/security_slackbot/v0.1.0.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/SuperCowPowers/security_slackbot/v0.1.0.svg
     :alt: Commits since latest release
-    :target: https://github.com/brifordwylie/security_slackbot/compare/v0.1.0...master
+    :target: https://github.com/SuperCowPowers/security_slackbot/compare/v0.1.0...master
 
 .. |downloads| image:: https://img.shields.io/pypi/dm/security-slackbot.svg
     :alt: PyPI Package monthly downloads

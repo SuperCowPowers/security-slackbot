@@ -33,7 +33,7 @@ setup(
     ),
     author='SuperCowPowers',
     author_email='briford@supercowpowers.com',
-    url='https://github.com/brifordwylie/security_slackbot',
+    url='https://github.com/SuperCowPowers/security_slackbot',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     py_modules=[splitext(basename(path))[0] for path in glob('src/*.py')],
