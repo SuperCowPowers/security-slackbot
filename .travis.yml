@@ -12,7 +12,7 @@ matrix:
     - python: "2.7"
       env: TOXENV=py27
     - python: "3.5"
-      env: TOXENV=py35, report, codecov
+      env: TOXENV=py35,report,codecov
     - python: "3.6"
       env: TOXENV=py36
     - python: "pypy"
