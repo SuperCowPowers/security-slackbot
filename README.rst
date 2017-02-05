@@ -17,7 +17,6 @@ Security SlackBot is the most awesome slackbot in the entire universe.
         | |codeclimate|
     * - package
       - | |version| |downloads| |wheel| |supported-versions| |supported-implementations|
-        | |commits-since|
 
 .. |docs| image:: https://readthedocs.org/projects/security_slackbot/badge/?style=flat
     :target: https://readthedocs.org/projects/security_slackbot
@@ -42,10 +41,6 @@ Security SlackBot is the most awesome slackbot in the entire universe.
 .. |version| image:: https://img.shields.io/pypi/v/security-slackbot.svg
     :alt: PyPI Package latest release
     :target: https://pypi.python.org/pypi/security-slackbot
-
-.. |commits-since| image:: https://img.shields.io/github/commits-since/SuperCowPowers/security_slackbot/v0.1.0.svg
-    :alt: Commits since latest release
-    :target: https://github.com/SuperCowPowers/security_slackbot/compare/v0.1.0...master
 
 .. |downloads| image:: https://img.shields.io/pypi/dm/security-slackbot.svg
     :alt: PyPI Package monthly downloads
