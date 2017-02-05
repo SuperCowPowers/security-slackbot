@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use security_slackbot in a project::
+To use security-slackbot in a project::
 
 	import security_slackbot

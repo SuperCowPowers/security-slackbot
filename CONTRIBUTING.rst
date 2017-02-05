@@ -8,7 +8,7 @@ little bit helps, and credit will always be given.
 Bug reports
 ===========
 
-When `reporting a bug <https://github.com/SuperCowPowers/security_slackbot/issues>`_ please include:
+When `reporting a bug <https://github.com/SuperCowPowers/security-slackbot/issues>`_ please include:
 
     * Your operating system name and version.
     * Any details about your local setup that might be helpful in troubleshooting.
@@ -17,14 +17,14 @@ When `reporting a bug <https://github.com/SuperCowPowers/security_slackbot/issue
 Documentation improvements
 ==========================
 
-security_slackbot could always use more documentation, whether as part of the
-official security_slackbot docs, in docstrings, or even on the web in blog posts,
+Security SlackBot could always use more documentation, whether as part of the
+official Security SlackBot docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 Feature requests and feedback
 =============================
 
-The best way to send feedback is to file an issue at https://github.com/SuperCowPowers/security_slackbot/issues.
+The best way to send feedback is to file an issue at https://github.com/SuperCowPowers/security-slackbot/issues.
 
 If you are proposing a feature:
 
@@ -35,13 +35,13 @@ If you are proposing a feature:
 Development
 ===========
 
-To set up `security_slackbot` for local development:
+To set up `security-slackbot` for local development:
 
-1. Fork `security_slackbot <https://github.com/SuperCowPowers/security_slackbot>`_
+1. Fork `security-slackbot <https://github.com/SuperCowPowers/security-slackbot>`_
    (look for the "Fork" button).
 2. Clone your fork locally::
 
-    git clone git@github.com:your_name_here/security_slackbot.git
+    git clone git@github.com:your_name_here/security-slackbot.git
 
 3. Create a branch for local development::
 
@@ -74,7 +74,7 @@ For merging, you should:
 4. Add yourself to ``AUTHORS.rst``.
 
 .. [1] If you don't have all the necessary python versions available locally you can rely on Travis - it will
-       `run the tests <https://travis-ci.org/SuperCowPowers/security_slackbot/pull_requests>`_ for each change you add in the pull request.
+       `run the tests <https://travis-ci.org/SuperCowPowers/security-slackbot/pull_requests>`_ for each change you add in the pull request.
 
        It will be slower though ...
 

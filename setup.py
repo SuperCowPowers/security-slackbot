@@ -23,7 +23,7 @@ def read(*names, **kwargs):
 
 
 setup(
-    name='security-slackbot',
+    name='security_slackbot',
     version='0.1.0',
     license='BSD',
     description='Security SlackBot',
@@ -33,7 +33,7 @@ setup(
     ),
     author='SuperCowPowers',
     author_email='briford@supercowpowers.com',
-    url='https://github.com/SuperCowPowers/security_slackbot',
+    url='https://github.com/SuperCowPowers/security-slackbot',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     py_modules=[splitext(basename(path))[0] for path in glob('src/*.py')],
@@ -72,7 +72,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'security-slackbot = security_slackbot.cli:main',
+            'security_slackbot = security_slackbot.cli:main',
         ]
     },
 )
